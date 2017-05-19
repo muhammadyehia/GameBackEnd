@@ -1,0 +1,5 @@
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\FakeGamesApi\bin\Debug\FakeGamesApi.dll
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\FakeGamesApi\bin\Debug\FakeGamesApi.pdb
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\FakeGamesApi\obj\Debug\FakeGamesApi.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\FakeGamesApi\obj\Debug\FakeGamesApi.dll
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\FakeGamesApi\obj\Debug\FakeGamesApi.pdb

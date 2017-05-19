@@ -1,0 +1,17 @@
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\bin\Debug\GreentubeGameTask.Infrastructure.dll.config
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\bin\Debug\GreentubeGameTask.Infrastructure.dll
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\bin\Debug\GreentubeGameTask.Infrastructure.pdb
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\bin\Debug\GreentubeGameTask.Core.dll
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\bin\Debug\GreentubeGameTask.Core.pdb
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\obj\Debug\GreentubeGameTask.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\obj\Debug\GreentubeGameTask.Infrastructure.dll
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\obj\Debug\GreentubeGameTask.Infrastructure.pdb
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\bin\Debug\FakeGamesApi.dll
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\bin\Debug\FakeGamesApi.pdb
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\bin\Debug\Z.EntityFramework.Extensions.dll
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\obj\Debug\GreentubeGameTask.Infrastructure.Migrations.First.resources
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Infrastructure\obj\Debug\GreentubeGameTask.Infrastructure.csproj.GenerateResource.Cache

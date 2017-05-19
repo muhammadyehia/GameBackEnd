@@ -1,0 +1,7 @@
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Core\bin\Debug\GreentubeGameTask.Core.dll
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Core\bin\Debug\GreentubeGameTask.Core.pdb
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Core\obj\Debug\GreentubeGameTask.Core.dll
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Core\obj\Debug\GreentubeGameTask.Core.pdb
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Core\obj\Debug\GreentubeGameTask.Core.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Core\bin\Debug\FakeGamesApi.dll
+C:\Users\Muhammad\Desktop\tfsGreenTubeGames\MyFirstProject\src\GreentubeGameTask\GreentubeGameTask.Core\bin\Debug\FakeGamesApi.pdb

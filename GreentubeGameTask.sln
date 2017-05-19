@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreentubeGameTask.Application", "GreentubeGameTask.Application\GreentubeGameTask.Application.csproj", "{95DF4ED9-9A7F-4BCD-B55D-3984838C91D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{559CD6FE-5585-422E-8B18-AE55BDC532CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{CAD0F6E8-DF57-46C7-9E7C-EABDBD350FE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E93DE6BE-30B0-49DA-B27A-204AB6C998F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreentubeGameTask.Core", "GreentubeGameTask.Core\GreentubeGameTask.Core.csproj", "{7F2DA490-F385-44DF-B938-2282D981D367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreentubeGameTask.Infrastructure", "GreentubeGameTask.Infrastructure\GreentubeGameTask.Infrastructure.csproj", "{89956FC4-045D-421F-975B-C5C37156B611}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExternalAPI", "ExternalAPI", "{7CCF4C28-DB04-427E-82FF-D37E05494E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeGamesApi", "FakeGamesApi\FakeGamesApi.csproj", "{64DC871B-3212-414C-A502-E79648DE2E5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreentubeGameTask.Core.Test", "GreentubeGameTask.Core.Test\GreentubeGameTask.Core.Test.csproj", "{78864E49-86B7-41B6-8037-48B05416DEF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DF4ED9-9A7F-4BCD-B55D-3984838C91D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DF4ED9-9A7F-4BCD-B55D-3984838C91D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DF4ED9-9A7F-4BCD-B55D-3984838C91D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DF4ED9-9A7F-4BCD-B55D-3984838C91D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2DA490-F385-44DF-B938-2282D981D367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2DA490-F385-44DF-B938-2282D981D367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2DA490-F385-44DF-B938-2282D981D367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2DA490-F385-44DF-B938-2282D981D367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89956FC4-045D-421F-975B-C5C37156B611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89956FC4-045D-421F-975B-C5C37156B611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89956FC4-045D-421F-975B-C5C37156B611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89956FC4-045D-421F-975B-C5C37156B611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64DC871B-3212-414C-A502-E79648DE2E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DC871B-3212-414C-A502-E79648DE2E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DC871B-3212-414C-A502-E79648DE2E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DC871B-3212-414C-A502-E79648DE2E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78864E49-86B7-41B6-8037-48B05416DEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78864E49-86B7-41B6-8037-48B05416DEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78864E49-86B7-41B6-8037-48B05416DEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78864E49-86B7-41B6-8037-48B05416DEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{95DF4ED9-9A7F-4BCD-B55D-3984838C91D7} = {559CD6FE-5585-422E-8B18-AE55BDC532CA}
+		{7F2DA490-F385-44DF-B938-2282D981D367} = {CAD0F6E8-DF57-46C7-9E7C-EABDBD350FE9}
+		{89956FC4-045D-421F-975B-C5C37156B611} = {E93DE6BE-30B0-49DA-B27A-204AB6C998F9}
+		{64DC871B-3212-414C-A502-E79648DE2E5B} = {7CCF4C28-DB04-427E-82FF-D37E05494E05}
+		{78864E49-86B7-41B6-8037-48B05416DEF3} = {CAD0F6E8-DF57-46C7-9E7C-EABDBD350FE9}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://greentubegametask.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GreentubeGameTask.Application\\GreentubeGameTask.Application.csproj
+		SccProjectTopLevelParentUniqueName1 = GreentubeGameTask.sln
+		SccProjectName1 = GreentubeGameTask.Application
+		SccLocalPath1 = GreentubeGameTask.Application
+		SccProjectUniqueName2 = GreentubeGameTask.Core\\GreentubeGameTask.Core.csproj
+		SccProjectTopLevelParentUniqueName2 = GreentubeGameTask.sln
+		SccProjectName2 = GreentubeGameTask.Core
+		SccLocalPath2 = GreentubeGameTask.Core
+		SccProjectUniqueName3 = GreentubeGameTask.Infrastructure\\GreentubeGameTask.Infrastructure.csproj
+		SccProjectTopLevelParentUniqueName3 = GreentubeGameTask.sln
+		SccProjectName3 = GreentubeGameTask.Infrastructure
+		SccLocalPath3 = GreentubeGameTask.Infrastructure
+		SccProjectUniqueName4 = FakeGamesApi\\FakeGamesApi.csproj
+		SccProjectTopLevelParentUniqueName4 = GreentubeGameTask.sln
+		SccProjectName4 = FakeGamesApi
+		SccLocalPath4 = FakeGamesApi
+		SccProjectUniqueName5 = GreentubeGameTask.Core.Test\\GreentubeGameTask.Core.Test.csproj
+		SccProjectTopLevelParentUniqueName5 = GreentubeGameTask.sln
+		SccProjectName5 = GreentubeGameTask.Core.Test
+		SccLocalPath5 = GreentubeGameTask.Core.Test
+	EndGlobalSection
+EndGlobal
